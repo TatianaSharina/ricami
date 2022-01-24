@@ -81,7 +81,7 @@ a {
 }
 
 .title {
-    font-family: -apple-system, BlinkMacSystemFont, 'Neocyr', 'Neucha', cursive;
+    font-family: 'Neocyr', 'Times New Roman', Times, serif;
     font-weight: normal;
     font-size: 85px;
     line-height: 98px;
@@ -231,7 +231,7 @@ a {
     margin-bottom: 5px;
     padding-left: 40px;
     background-color: rgba(0, 0, 0, 0.45);
-    font-family: -apple-system, BlinkMacSystemFont, 'Neocyr', 'Neucha', cursive;
+    font-family: 'Neocyr', 'Times New Roman', Times, serif;
     font-size: 40px;
     line-height: 2;
     transition: .5s;
@@ -541,7 +541,7 @@ justify-content: space-between;}
 
 .food-block-item-tittle{
     align-items: center;
-    font-family: -apple-system, BlinkMacSystemFont, 'Neocyr', 'Neucha', cursive;
+    font-family: 'Neocyr', 'Times New Roman', Times, serif;
     font-style: normal;
     font-size: 43px;
     line-height: 50px;
